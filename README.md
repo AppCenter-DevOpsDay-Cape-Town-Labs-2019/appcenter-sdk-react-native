@@ -7,7 +7,7 @@
 App Center is your continuous integration, delivery and learning solution for iOS and Android apps.
 Get faster release cycles, higher-quality apps, and the insights to build what users want.
 
-# Source Code
+## Source Code
 
 https://github.com/microsoft/appcenter-sdk-react-native.git
 
